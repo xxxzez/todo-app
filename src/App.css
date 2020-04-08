@@ -14,3 +14,7 @@
 .todoList-task {
 
 }
+
+.filter-active{
+  background-color: rgb(96, 125, 221);
+}
